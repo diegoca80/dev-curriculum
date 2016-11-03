@@ -36,6 +36,8 @@ back-end:
     level: 4
   - name: SQL
     level: 4
+  - name: C / C++
+    level: 3
   - name: Ruby
     level: 3
   - name: PHP
@@ -58,8 +60,12 @@ front-end:
     level: 3
 
 mobile:
-  - name: Android
+  - name: Android SDK
     level: 4
+  - name: Android APIs
+    level: 4
+  - name: Embedded Android
+    level: 3
   - name: Ionic
     level: 2
 
@@ -79,13 +85,13 @@ db:
   - name: SQL Server
     level: 2
 
-
-
 devops:
   - name: Git
     level: 4
-  - name: Docker
-    level: 3
+  - name: Gerrit
+    level: 4
+  - name: Jira
+    level: 4
   - name: Jenkins
     level: 3
   - name: Continuous Integration
@@ -94,24 +100,28 @@ devops:
     level: 3
 
 methodologies:
-  - name: Agile Methodologies
+  - name: Safe Agile 4.0
     level: 4
-  - name: Scrum
+  - name: Scrum Master (Scaled Agile Certificate)
+    level: 4
+  - name: Scrum Dev (Scrum Alliance Certificate)
     level: 4
 
 others:
-  - name: REST
+  - name: Google BigQuery
+    level: 5
+  - name: Machine Learning
     level: 4
+  - name: REST
+    level: 3
+  - name: Ruby on Rails
+    level: 3
   - name: Web Services
     level: 3
-  - name: JEE, JSF, JPA, EJB, CDI
+  - name: JEE, JSF, JPA
     level: 3
   - name: Hibernate
     level: 3 
-  - name: Ruby on Rails
-    level: 3
-  - name: Spring
-    level: 3
 
 # Build settings
 
