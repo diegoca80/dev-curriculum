@@ -26,7 +26,7 @@ I ain't just developed **Dev Curriculum**, I'm also using it as my own Web Curri
 
 ## How to use
 
-First of all make sure you have ruby installed and bundle as well, if not, have refer to the the ruby official website at [ruby.com](https://www.ruby-lang.org/en/documentation/installation/) and bundle official website at [bundler.io](http://bundler.io)
+First of all make sure you have ruby installed and bundle as well, if not, refer to the the ruby official website at [ruby.com](https://www.ruby-lang.org/en/documentation/installation/) and bundle official website at [bundler.io](http://bundler.io)
 
 Once you have all environment set up done go ahead and follow the steps below:
 
