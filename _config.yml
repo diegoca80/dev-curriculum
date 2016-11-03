@@ -39,77 +39,77 @@ Specializations:
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
-front-end:
-  - name: HTML 5
-    level: 4
-  - name: CSS 3
-    level: 4
-  - name: JavaScript
-    level: 4
-  - name: jQuery
-    level: 4
-  - name: Angular
-    level: 4
-  - name: Vue.js
-    level: 2
-  - name: Bootstrap
-    level: 4
-  - name: Materialize CSS
-    level: 5
-  - name: LESS
-    level: 3
-  - name: SASS
-    level: 3
-  - name: Stylus
-    level: 4
-  - name: Gulp
-    level: 4
-  - name: Grunt
-    level: 3
-  - name: Bower
-    level: 3
-
 back-end:
   - name: PHP
-    level: 5
-  - name: Node.js
     level: 3
+  - name: Node.js
+    level: 
   - name: Ruby
-    level: 2
+    level: 3
   - name: Python
-    level: 2
+    level: 4
   - name: Java
     level: 4
   - name: COBOL
-    level: 2
+    level: 
   - name: SQL
     level: 4
   - name: Lua
-    level: 2
+    level: 
+    
+front-end:
+  - name: HTML 5
+    level: 3
+  - name: CSS 3
+    level: 3
+  - name: JavaScript
+    level: 3
+  - name: jQuery
+    level: 3
+  - name: Angular
+    level: 3
+  - name: Vue.js
+    level: 
+  - name: Bootstrap
+    level: 3
+  - name: Materialize CSS
+    level: 
+  - name: LESS
+    level: 
+  - name: SASS
+    level: 
+  - name: Stylus
+    level: 
+  - name: Gulp
+    level: 
+  - name: Grunt
+    level: 
+  - name: Bower
+    level: 3
 
 mobile:
   - name: Android
-    level: 2
+    level: 4
   - name: Apache Cordova
-    level: 4
+    level: 
   - name: Ionic
-    level: 4
+    level: 2
   - name: NativeScript
-    level: 3
+    level: 
 
 db:
   - name: MySQL
     level: 4
   - name: PostgreSQL
-    level: 3
+    level: 2
   - name: MongoDB
-    level: 4
+    level: 2
   - name: SQL Server
     level: 2
   - name: Oracle
     level: 3
   - name: Firebase
-    level: 3
+    level: 4
   - name: NoSQL
     level: 4
 
@@ -117,51 +117,51 @@ devops:
   - name: Docker
     level: 3
   - name: Vagrant
-    level: 3
+    level: 
   - name: Jenkins
-    level: 1
-  - name: Git
-    level: 5
-  - name: Apache Maven
     level: 3
+  - name: Git
+    level: 4
+  - name: Apache Maven
+    level: 
   - name: Continuous Integration
     level: 3
   - name: Continuous Delivery
-    level: 2
+    level: 
 
 methodologies:
   - name: Agile Methodologies
-    level: 3
+    level: 4
   - name: Scrum
     level: 4
   - name: RUP
-    level: 3
+    level: 
 
 others:
   - name: Web Services
-    level: 5
+    level: 3
   - name: REST
-    level: 5
+    level: 4
   - name: JEE, JSF, JPA, EJB, CDI
     level: 3
   - name: iReport, Jasper Reports
-    level: 2
+    level: 
   - name: Hibernate
     level: 3
   - name: Grails
-    level: 2
+    level: 
   - name: Symfony
-    level: 3
+    level: 
   - name: Twig
-    level: 4
+    level: 
   - name: Doctrine ORM
-    level: 3
+    level: 
   - name: Laravel, Blade, Eloquent ORM
-    level: 5
+    level: 
   - name: Ruby on Rails
     level: 3
   - name: MEAN Stack
-    level: 4
+    level: 
   - name: Spring
     level: 3
 
