@@ -8,25 +8,25 @@
       {% if site.bio %}
         {% include bio.html %}
       {% endif %}
-
-      {% if site.front-end %}
-        {% include front-end.html %}
-      {% endif %}
-
-      {% if site.back-end %}
-        {% include back-end.html %}
-      {% endif %}
-
+      
       {% if site.mobile %}
         {% include mobile.html %}
       {% endif %}
-
+      
+      {% if site.back-end %}
+        {% include back-end.html %}
+      {% endif %}
+      
       {% if site.db %}
         {% include db.html %}
       {% endif %}
-
+      
       {% if site.devops %}
         {% include devops.html %}
+      {% endif %}
+      
+      {% if site.front-end %}
+        {% include front-end.html %}
       {% endif %}
 
       {% if site.methodologies %}
