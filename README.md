@@ -22,7 +22,7 @@ Any developer that doesn't have a **Web Curriculum**.
 
 ## How it will look like?
 
-I ain't just developed **Dev Curriculum**, I'm also using it as my own Web Curriculum and you can check a demo **[here](http://wendelladriel.github.io)**.
+I ain't just developed **Dev Curriculum**, I'm also using it as my own Web Curriculum and you can check a demo **[here](http://diegoca80.github.io)**.
 
 ## How to use
 
