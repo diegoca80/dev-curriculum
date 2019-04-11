@@ -7,15 +7,15 @@ language: "" # language to set into html tag, default is en
 # User settings
 
 author: Diego Alves
-author-title: Software Engineer
+author-title: Software Engineer | Data Analyst
 gravatar: f02d083d58adf68f87da84a7886dfbf7
 email: diegocardalves@gmail.com
 github: diegoca80
 facebook: diegocardalves
 linkedin: diegocardosoalves
-bio: " Software Engineer and currently studying Data Science as a Master's student.
+bio: " Software Engineer and finishing a Master's degree in Data Science at UNICAMP.
      Hard worker, investigative and persistent profile, with interest in research and problem solving.
-     Interested also in strategic people management and discussions for tech entrepreneurs."
+     Also interested in strategic people management and discussions for tech entrepreneurs."
 
 # Skills
 #
@@ -37,11 +37,11 @@ back-end:
   - name: SQL
     level: 4
   - name: C / C++
-    level: 3
+    level: 2
   - name: Ruby
-    level: 3
+    level: 2
   - name: PHP
-    level: 3 
+    level: 1 
     
 front-end:
   - name: HTML 5
@@ -52,12 +52,12 @@ front-end:
     level: 3
   - name: jQuery
     level: 3
-  - name: Angular
-    level: 3
   - name: Bootstrap
     level: 3
+  - name: Angular
+    level: 2
   - name: Bower
-    level: 3
+    level: 1
 
 mobile:
   - name: Android SDK
@@ -75,22 +75,22 @@ db:
   - name: Firebase
     level: 4
   - name: NoSQL
-    level: 4
+    level: 3
   - name: Oracle
     level: 3
   - name: PostgreSQL
-    level: 2
+    level: 1
   - name: MongoDB
-    level: 2
-  - name: SQL Server
-    level: 2
+    level: 1
 
 devops:
   - name: Git
-    level: 4
+    level: 5
   - name: Gerrit
-    level: 4
+    level: 5
   - name: Jira
+    level: 5
+  - name: Confluence
     level: 4
   - name: Jenkins
     level: 3
@@ -112,16 +112,22 @@ others:
     level: 5
   - name: Machine Learning
     level: 4
+  - name: Data Visualization
+    level: 4
+  - name: Data Engineering
+    level: 3
+  - name: Deep Learning
+    level: 3
   - name: REST
     level: 3
   - name: Ruby on Rails
-    level: 3
+    level: 1
   - name: Web Services
-    level: 3
+    level: 1
   - name: JEE, JSF, JPA
-    level: 3
+    level: 1
   - name: Hibernate
-    level: 3 
+    level: 1 
 
 # Build settings
 
